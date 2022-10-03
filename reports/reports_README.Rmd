@@ -3,7 +3,9 @@ title: "README for reports folder"
 output: github_document
 ---
 
-
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
 
 This folder stores the RMD files (and their knitted output files) that document the analysis or report on results
 

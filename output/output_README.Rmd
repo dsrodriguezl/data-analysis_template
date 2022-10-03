@@ -3,7 +3,9 @@ title: "README for output folder"
 output: github_document
 ---
 
-
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
 
 This folder stores any intermediate or output files (e.g. Simulation outputs, models, etc.)
 

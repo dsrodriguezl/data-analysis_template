@@ -1,4 +1,10 @@
-# README for data folder
+---
+title: "README for data folder"
+output: github_document
+---
+
+
+
 This folder stores the data for the project
 
 ## Data description

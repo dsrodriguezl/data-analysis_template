@@ -3,7 +3,9 @@ title: "README for figures folder"
 output: github_document
 ---
 
-
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
 
 This folder stores figures that are produced along the data analysis process.
 
