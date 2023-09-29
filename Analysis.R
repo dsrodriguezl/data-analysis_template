@@ -1,4 +1,6 @@
 # Set up ----
+install.packages(c("here", "pacman"))
+
 # Import personal functions to use across scripts
 source(here::here("scripts", "general_functions.R"))
 
